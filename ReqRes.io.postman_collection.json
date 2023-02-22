@@ -63,7 +63,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"email\": \"eve.holt@reqres.in\",\r\n    \"password\": \"{{$randomPassword}}\"\r\n}",
+					"raw": "{\r\n    \"email\": \"evea.holt@reqres.in\",\r\n    \"password\": \"{{$randomPassword}}\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
